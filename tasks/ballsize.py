@@ -14,7 +14,7 @@ from experimentator import Callback, ExperimentMode
 
 from .detection import divide
 
-BALL_DIAMETER = 23
+BALL_DIAMETER = 6.7
 
 
 class BallSizeEstimation(TensorflowExperiment):
